@@ -156,6 +156,30 @@
     transform: scale(1.2);
 }
 
+.footer .info .horarios,a
+{
+    font-size: 20px;
+}
+.info
+{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: space-around;
+    gap: 30px;
+}
+.info a
+{
+     color: white;
+}
+
+.info a:hover
+{
+    color: blue;
+}
+
 /* About */
 
 .about
