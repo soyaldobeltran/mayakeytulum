@@ -4,7 +4,7 @@
     font-family: Poppins, Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
-    --main-color: rgb(21, 138, 156);
+    --main-color: rgb(0, 0, 0);
 }
 .capa{
     height:500px;
@@ -148,8 +148,8 @@ video {
     position:fixed;
     width:60px;
     height:60px;
-    bottom:40px;
-    right:40px;
+    bottom:15px;
+    right:15px;
     /* background-color:#25d366; */
     background-color: var(--main-color);
     color:#FFF;
